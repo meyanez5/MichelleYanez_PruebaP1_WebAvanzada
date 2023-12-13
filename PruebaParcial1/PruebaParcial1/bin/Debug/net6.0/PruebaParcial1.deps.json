@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebaParcial1/1.0.0": {
+        "runtime": {
+          "PruebaParcial1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaParcial1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
